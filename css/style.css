@@ -41,6 +41,19 @@ a:hover {
   display: none;
 }
 
+.season {
+  background-color: rgb(24 24 24);
+  text-align: center;
+  padding: 20px;
+}
+
+.season span {
+  font-size: 30px;
+  padding: 30px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 @media screen and (max-width: 900px) {
   nav {
     flex-direction: column;
