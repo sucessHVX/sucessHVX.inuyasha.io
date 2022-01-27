@@ -1,0 +1,6 @@
+@import 'reset.css';
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
