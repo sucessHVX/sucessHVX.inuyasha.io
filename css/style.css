@@ -134,7 +134,7 @@ ul {
   padding: 16px;
 }
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
   nav {
     flex-direction: column;
     justify-content: center;
@@ -161,4 +161,4 @@ ul {
     width: 30px;
     height: 30px;
   }
-}
+} */
